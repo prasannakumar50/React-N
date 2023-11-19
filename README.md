@@ -10,3 +10,9 @@
 - Minification
 - Bundling
 - Compress
+- Consistent Hashing
+- Code splitting
+- Differential Bundling - support older browsers
+- Diagnostic
+- Error Handling
+- Https
